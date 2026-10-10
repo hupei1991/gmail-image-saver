@@ -1,0 +1,8 @@
+body { width: 286px; margin: 0; padding: 20px; color: #1f2937; background: #fff; font: 14px/1.7 system-ui, sans-serif; }
+header { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; }
+.logo { flex: 0 0 auto; }
+h1 { margin: 0; font-size: 18px; line-height: 1.4; }
+p { margin: 10px 0; }
+.hint, .privacy { color: #657184; font-size: 12px; }
+.privacy { border-top: 1px solid #e5e7eb; padding-top: 12px; margin-top: 16px; }
+#status { padding: 10px; background: #fff1f2; color: #9f1239; border-radius: 8px; overflow-wrap: anywhere; }

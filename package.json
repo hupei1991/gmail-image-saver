@@ -1,0 +1,12 @@
+{
+  "name": "gmail-image-saver",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Save original image files from Gmail drafts using a browser context menu.",
+  "scripts": {
+    "test": "node --test tests/extension.test.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
